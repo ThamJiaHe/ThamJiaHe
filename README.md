@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tham Jia He</h1>
 <h3 align="center">Currently pursuing a Diploma in Information Technology. Technology has been a passion of mine since primary school and I enjoy learning about new trends and how they can contribute to society's advancement.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thamjiahe&label=Profile%20views&color=0e75b6&style=flat" alt="thamjiahe" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thamjiahe" alt="thamjiahe" /></a> </p>
-
 - 🌱 I’m currently learning **C#, Node.js, React**
 
 - 💬 Ask me about **IT Hardware & Gadget, Software, Music**

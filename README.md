@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="JHBusinesscard.png" alt="Tham Jia He" width="800" />
+  <img src="JHBusinesscard.png" alt="Tham Jia He" width="600" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Tham Jia He</h1>

@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="JHBusinesscard.png" alt="Tham Jia He" width="200" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Tham Jia He</h1>
 <h3 align="center">Currently pursuing a Diploma in Information Technology. Technology has been a passion of mine since primary school and I enjoy learning about new trends and how they can contribute to society's advancement.</h3>
 

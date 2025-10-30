@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **IT Hardware & Gadget, Software, Music**
 
-- 📫 How to reach me **jiahetham@gmail.com**
+- 📫 How to reach me **reachme@thamjiahe.dev**
 
 - ⚡ Fun fact **I love Music.**
 

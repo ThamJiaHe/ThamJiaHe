@@ -99,15 +99,6 @@ Tech student and developer from Singapore. I build full-stack apps, solve IT pro
 
 ---
 
-## 🎵 Now Playing
-
-<div align="center">
-  
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=masterbladej&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&profanity=true&bar_color=00bfff&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=masterbladej&redirect=true)
-</div>
-
----
-
 ## 💭 Random Dev Quote
 
 <div align="center">

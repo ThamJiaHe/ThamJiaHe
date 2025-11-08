@@ -49,13 +49,13 @@ Tech student and developer from Singapore. I build full-stack apps, solve IT pro
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs" height="40" />
 
 ### Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,cs,dotnet,mongodb,mysql" height="40" />
+<img src="https://skillicons.dev/icons?i=nodejs,cs,dotnet,prisma,mongodb,mysql" height="40" />
 
 ### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker" height="40" />
 
 ### Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,cloudflare,terraform" height="40" />
+<img src="https://skillicons.dev/icons?i=aws,cloudflare,GCP" height="40" />
 
 </div>
 
@@ -103,8 +103,7 @@ Tech student and developer from Singapore. I build full-stack apps, solve IT pro
 
 <div align="center">
   
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31l4p5bprayojiuotkct5aieecsu&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=ff6b6b&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31l4p5bprayojiuotkct5aieecsu&redirect=true)
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=masterbladej&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&profanity=true&bar_color=00bfff&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=masterbladej&redirect=true)
 </div>
 
 ---

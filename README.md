@@ -51,18 +51,6 @@ Tech student and developer from Singapore. I build full-stack apps, solve IT pro
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ThamJiaHe&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThamJiaHe&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9" alt="Top Languages" width="48%" />
-
-</div>
-
----
-
 ## 🎯 Featured Projects
 
 <div align="center">
@@ -72,6 +60,20 @@ Tech student and developer from Singapore. I build full-stack apps, solve IT pro
 | [**Pokemon-Pocket**](https://github.com/ThamJiaHe/Pokemon-Pocket) | Simple Pokedex app | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 | [**doc-sync-notion**](https://github.com/ThamJiaHe/doc-sync-notion) | Sync docs to Notion | ![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 | [**MS Project Guide**](https://github.com/ThamJiaHe/Microsoft-Project-Planner-Installation-Guide) | Setup guide | ![MD](https://img.shields.io/badge/-Markdown-000?style=flat-square&logo=markdown) |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ThamJiaHe&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ThamJiaHe&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" alt="GitHub Streak" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThamJiaHe&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9" alt="Top Languages" width="48%" />
 
 </div>
 

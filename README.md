@@ -52,10 +52,10 @@ Tech student and developer from Singapore. I build full-stack apps, solve IT pro
 <img src="https://skillicons.dev/icons?i=nodejs,cs,dotnet,prisma,mongodb,mysql" height="40" />
 
 ### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker" height="40" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,notion,docker" height="40" />
 
 ### Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,cloudflare,GCP" height="40" />
+<img src="https://skillicons.dev/icons?i=aws,cloudflare,gcp,azure" height="40" />
 
 </div>
 
@@ -133,8 +133,6 @@ Tech student and developer from Singapore. I build full-stack apps, solve IT pro
 ---
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/ThamJiaHe/ThamJiaHe/main/footer-wave.svg" alt="Footer Wave" width="100%" height="100" />
 
 <sub>Made with 🌊 by Tham Jia He</sub>
 

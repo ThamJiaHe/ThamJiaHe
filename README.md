@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- Japanese Wave Banner -->
-<img src="japanese-wave-banner.svg" alt="Japanese Wave Banner" width="100%" />
+<img src="https://www.notion.so/images/page-cover/woodcuts_2.jpg" alt="Japanese Wave Banner" width="100%" />
 
 <!-- Name & Title -->
 <h1>

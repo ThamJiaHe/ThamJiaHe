@@ -41,26 +41,6 @@ Tech student and developer from Singapore. I build full-stack apps, solve IT pro
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages & Frontend
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs" height="40" />
-
-### Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,cs,dotnet,prisma,mongodb,mysql" height="40" />
-
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,notion,docker" height="40" />
-
-### Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,cloudflare,gcp,azure" height="40" />
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">

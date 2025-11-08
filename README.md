@@ -41,6 +41,16 @@ Tech student and developer from Singapore. I build full-stack apps, solve IT pro
 
 ---
 
+## 💭 Random Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -72,16 +82,6 @@ Tech student and developer from Singapore. I build full-stack apps, solve IT pro
 <div align="center">
   
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThamJiaHe&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF" alt="Activity Graph" width="100%" />
-
-</div>
-
----
-
-## 💭 Random Dev Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)
 
 </div>
 

@@ -47,8 +47,6 @@ Tech student and developer from Singapore. I build full-stack apps, solve IT pro
 
 <img src="https://github-readme-stats.vercel.app/api?username=ThamJiaHe&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ThamJiaHe&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" alt="GitHub Streak" width="48%" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThamJiaHe&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9" alt="Top Languages" width="48%" />
 
 </div>

@@ -1,43 +1,60 @@
-<p align="center">
-  <img src="thamjiahecard.png" alt="Banner" width="80%" />
+<div align="center">
+  
+<!-- Japanese Wave Banner -->
+<img src="japanese-wave-banner.svg" alt="Japanese Wave Banner" width="100%" />
+
+<!-- Name & Title -->
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+JP&weight=700&size=35&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&repeat=false&width=600&lines=Tham+Jia+He" alt="Tham Jia He" />
+</h1>
+
+<h3>Full-Stack Developer | IT Support Technician | Singapore 🇸🇬</h3>
+
+<!-- Social Badges -->
+<p>
+  <a href="https://linkedin.com/in/tham-jia-he"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://thamjiahe.dev"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:reachme@thamjiahe.dev"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Tham Jia He</h1>
+<!-- Visitor Badge -->
+<img src="https://komarev.com/ghpvc/?username=ThamJiaHe&style=for-the-badge&color=FF6B6B" alt="Profile Views" />
 
-<p align="center">
-  Student Developer | IT Enthusiast | Singapore
-</p>
+</div>
 
 ---
 
-## About Me
+## 🌊 About Me
 
-- 👨‍💻 Tech student & full-stack dev
-- 🔧 Learning: C#, Node.js, React
-- 🎧 Music is life
+Tech student and developer from Singapore. I build full-stack apps, solve IT problems, and learn new tools.
 
-## Skills
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,js,ts,python,html,css,github" height="35" />
-
-## Projects
-
-- **Pokemon-Pocket** – Simple pokédex app for assignment
-- **doc-sync-notion** – Notion docs sync tool (TypeScript)
-- **Microsoft Project Planner Guide** – Student setup guide
-
-## GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThamJiaHe)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThamJiaHe&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThamJiaHe&show_icons=true)
-
-## Get in Touch
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/tham-jia-he)
-[![Website](https://img.shields.io/badge/Website-Visit-brightgreen?logo=google-chrome)](https://thamjiahe.dev/)
-[![Email](https://img.shields.io/badge/Email-reachme@thamjiahe.dev-red?logo=gmail)](mailto:reachme@thamjiahe.dev)
+- 🎓 Diploma in Information Technology
+- 💻 Current: C#, Node.js, React
+- 🎧 Music lover
+- 🛠️ Ask me: IT Hardware, Gadgets, Software
 
 ---
 
-<sup>Let’s connect. Always open for collaboration!</sup>
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages & Frontend
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs" height="40" />
+
+### Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,cs,dotnet,mongodb,mysql" height="40" />
+
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker" height="40" />
+
+### Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,cloudflare,terraform" height="40" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div 

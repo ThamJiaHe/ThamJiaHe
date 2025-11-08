@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="your-banner.png" alt="Banner" width="80%" />
+  <img src="thamjiahecard.png" alt="Banner" width="80%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Tham Jia He</h1>

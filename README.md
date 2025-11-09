@@ -11,9 +11,6 @@
 <h3>Full-Stack Developer | IT Support Technician | Singapore 🇸🇬</h3>
 
 <!-- Social Badges -->
-<div align="left">
-  [![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=22656)](https://github.com/harish-sethuraman/readme-components)
-</div>  
 <p>
   <a href="https://linkedin.com/in/tham-jia-he">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>

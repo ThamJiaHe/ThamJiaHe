@@ -7,9 +7,10 @@
 <h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+JP&weight=700&size=35&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&repeat=false&width=600&lines=Tham+Jia+He" alt="Tham Jia He" />
 </h1>
-
-<h3>Full-Stack Developer | IT Support Technician | Singapore 🇸🇬</h3>
-
+<div aligm="center">
+  <h3>Full-Stack Developer | IT Support Technician | Singapore 🇸🇬</h3>
+  [![trophy](https://github-profile-trophy.vercel.app/?thamjiahe=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 <!-- Social Badges -->
 <p>
   <a href="https://linkedin.com/in/tham-jia-he">

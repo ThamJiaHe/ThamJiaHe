@@ -12,6 +12,7 @@
 
 <!-- Social Badges -->
 <p>
+  [![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=22656)](https://github.com/harish-sethuraman/readme-components)
   <a href="https://linkedin.com/in/tham-jia-he">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>

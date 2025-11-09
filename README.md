@@ -49,47 +49,6 @@ Tech student and developer from Singapore. I build full-stack apps, solve IT pro
 
 ---
 
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**Pokemon-Pocket**](https://github.com/ThamJiaHe/Pokemon-Pocket) | Simple Pokedex app | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| [**doc-sync-notion**](https://github.com/ThamJiaHe/doc-sync-notion) | Sync docs to Notion | ![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| [**MS Project Guide**](https://github.com/ThamJiaHe/Microsoft-Project-Planner-Installation-Guide) | Setup guide | ![MD](https://img.shields.io/badge/-Markdown-000?style=flat-square&logo=markdown) |
-
-</div>
-
----
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThamJiaHe&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" alt="GitHub Streak" width="350"/>
-    </td>
-    <td>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThamJiaHe&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF" alt="Activity Graph" width="350"/>
-    </td>
-  </tr>
-</table>
-
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-**Open for collaboration and new projects!**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tham-jia-he)
-[![Website](https://img.shields.io/badge/Website-Visit-FF6B6B?style=for-the-badge&logo=google-chrome)](https://thamjiahe.dev)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:reachme@thamjiahe.dev)
-
-</div>
-
----
-
 <div align="center">
 
 <sub>Made with 🌊 by Tham Jia He</sub>

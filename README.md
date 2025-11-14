@@ -39,6 +39,10 @@ Tech student and developer from Singapore. I build full-stack apps, solve IT pro
 
 ---
 
+![Kugou Music](https://kugou-widget-6yzx2np4o-cv4tkg1uav-gmailcoms-projects.vercel.app?user_id=demo&theme=dark)
+
+---
+
 ## 💭 Random Dev Quote
 
 <div align="center">
